@@ -82,7 +82,7 @@ header.sticky{
 
 /* landing-Page */
 .bgimg{
-    background-image: url('bgimg.jpg');
+    background-image: url('image/bgimg.jpg');
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
